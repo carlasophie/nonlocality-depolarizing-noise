@@ -4,7 +4,7 @@ If you use this code, please cite the corresponding paper:
 
 | Corresponding Paper | 
 |----------|
-| Citation will be added. | 
+| Granda Arango, A., Rieger, C., et al. "Nonlocality as a Benchmarking Tool for Quantum Processors", accepted for publication in EPJ Quantum Technology. | 
 
 *Code contributors: Carla Rieger, Federico Hernán Holik, Camilo Andrés Granda Arango.*
 
