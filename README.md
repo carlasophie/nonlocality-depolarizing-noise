@@ -1,5 +1,7 @@
 # Investigating nonlocality under depolarizing noise
 
+[![arXiv](https://img.shields.io/badge/arXiv-2610.24196-b31b1b.svg)](https://arxiv.org/abs/2610.24196)
+
 If you use this code, please cite the corresponding paper:
 
 | Corresponding Paper | 
